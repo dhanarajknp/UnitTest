@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "JavaUnitTest",
+                "projectName": "JavaUnitTest",
+                "workingDirectory": "c:\\Users\\dhanarajk\\JavaUnitTest",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "JavaUnitTest",
+                "projectName": "JavaUnitTest",
+                "workingDirectory": "c:\\Users\\dhanarajk\\JavaUnitTest",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
